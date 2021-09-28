@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "name": "tea",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "jest": "^27.2.2",
+    "supertest": "^6.1.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
